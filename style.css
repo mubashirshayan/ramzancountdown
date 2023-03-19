@@ -1,0 +1,62 @@
+.same{
+    display: flex;
+    justify-content: center;
+    
+    
+}
+.con{
+    background-color: rgb(3, 97, 3);
+    width: 300px;
+    border-radius: 10px;
+}
+.to{
+    background-color:  rgb(3, 97, 3);
+    height: 40px;
+    width: 150px;
+    border-radius: 20px;
+    color: white;
+    margin-left: 65px;
+}
+
+body{
+    background-image: url("images/istockphoto-2.jpg");
+  
+}
+.h2{
+    color: white;
+}
+h1{
+   font-size: 100px;
+   font-family: serif;
+   color: rgb(3, 32, 3);
+}
+.ramd{
+    font-style: italic;
+    font-family: serif;
+    font-size: 30px;
+    color: white;
+}
+p{
+    font-weight: bold;
+}
+h2{
+    color:rgb(3, 32, 3) ;
+    font-family: serif;
+    font-style: italic;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    /* background-color: aquamarine; */
+}
+.parent{
+    /* background-color: bisque; */
+    height: 900px;
+    display: flex;
+   align-items: center;
+   justify-content: center;
+}
+.id{background-color: white;}
+.days{
+    background-color: white;
+}
